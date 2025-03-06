@@ -12,7 +12,7 @@ This project trains a **YOLOv8** model on the **Hard Hat Dataset** to detect whe
 
 ## Demo  
 
-[./output.jpg]
+![Demo Image](./output.jpg)
 ---
 
 ## 🛠️ Installation & Setup
